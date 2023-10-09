@@ -4,7 +4,8 @@ import { TextField } from "@mui/material";
 import {useState} from "react";
 import { Button } from "@mui/material";
 
-export function Signup() {
+//<Signup onClick={()=>{}} />
+export function Signup(props) {
     const [email, setEmail] = useState("")
     const [password, setPassword] = useState("")
   return (
@@ -45,7 +46,7 @@ export function Signup() {
                     size={"large"}
                     variant="contained"
                     onClick={async() => {
-
+                        props.onClick(email, password);
                     }}
 
                 > Signup</Button>

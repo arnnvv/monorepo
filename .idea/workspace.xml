@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b8f69a8e-11a4-47fb-90a6-0e679c71c913" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bun.lockb" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lockb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ui/components/Signin.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ui/components/Signin.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/client/src/pages/signup.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/src/pages/signup.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/ui/components/Signup.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ui/components/Signup.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/ui/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ui/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696796229320</updated>
       <workItem from="1696796230681" duration="606000" />
-      <workItem from="1696824449303" duration="1614000" />
+      <workItem from="1696824449303" duration="2666000" />
     </task>
     <servers />
   </component>
