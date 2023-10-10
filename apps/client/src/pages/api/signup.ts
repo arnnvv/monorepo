@@ -17,7 +17,7 @@ export default async function handler(
 ) {
   router.post('/signup', (req, res) => {
     const { username, password } = req.body;
-    const admin = await Admin.findOne({ username: req.user.username });
+    const admin = Admin.findOne({ username: req.user.username });
     function callback(admin) {
       if (admin) {
         res.status(403).json({ message: 'Admin already exists' });

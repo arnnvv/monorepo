@@ -9,16 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "jsonwebtoken": "^9.0.2",
+    "next": "13.5.4",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "13.5.4"
+    "react-dom": "^18"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "ui": "*",
-    "db": "*"
+    "db": "*",
+    "typescript": "^5",
+    "ui": "*"
   }
 }
