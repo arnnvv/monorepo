@@ -6,11 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="b8f69a8e-11a4-47fb-90a6-0e679c71c913" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/client/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/client/src/pages/api/signup.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/src/pages/api/signup.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/client/src/pages/signup.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/src/pages/signup.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bun.lockb" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lockb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/db/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/db/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/db/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Users/arnavsharma/Documents/monorepo/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/arnavsharma/Documents/monorepo/apps/client/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -67,11 +68,24 @@
       <updated>1696796229320</updated>
       <workItem from="1696796230681" duration="606000" />
       <workItem from="1696824449303" duration="4465000" />
-      <workItem from="1696888992575" duration="12674000" />
+      <workItem from="1696888992575" duration="15194000" />
+      <workItem from="1696947662439" duration="3937000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/apps/client/src/pages/api/signup.ts</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
