@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b8f69a8e-11a4-47fb-90a6-0e679c71c913" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bun.lockb" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lockb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/db/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/db/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/client/src/pages/api/hello.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/src/pages/api/hello.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/client/src/pages/api/signup.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/src/pages/api/signup.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -62,7 +64,7 @@
       <updated>1696796229320</updated>
       <workItem from="1696796230681" duration="606000" />
       <workItem from="1696824449303" duration="4465000" />
-      <workItem from="1696888992575" duration="3748000" />
+      <workItem from="1696888992575" duration="6857000" />
     </task>
     <servers />
   </component>
