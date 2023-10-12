@@ -2,7 +2,8 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
 import { Admin } from "db";
 import express from "express"; // Use 'import' for 'express'
-import jwt from 'jsonwebtoken'; // Importing 'jsonwebtoken' after installing type declarations
+import jwt from 'jsonwebtoken';
+import {ensureDbConnect} from "@/lib/dbConnect"; // Importing 'jsonwebtoken' after installing type declarations
 const SECRET = "SECRET";
 
 
@@ -18,7 +19,7 @@ export default async function handler(
     res: NextApiResponse<Data>
 ) {
     console.log("handler called");
-    // await ensureDbConnected()
+    await ensureDbConnect()
     const { username, password } = req.body;
     const admin = await Admin.findOne({ username });
     if (admin) {
