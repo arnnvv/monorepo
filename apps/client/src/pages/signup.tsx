@@ -1,5 +1,6 @@
 import { Signup } from "ui";
 import axios from "axios";
+import {response} from "express";
 
 export default function SignupPage() {
   return (
@@ -7,7 +8,7 @@ export default function SignupPage() {
       <Signup
         onClick={async (username: string, password: string) => {
             try {
-                const response = await axios.post("admin.kirat.com/signup", {
+                const response = await axios.post("/api/signup", {
                     username,
                     password,
                 });
@@ -16,6 +17,7 @@ export default function SignupPage() {
                 // Handle any errors that occur during the request
                 console.error(err);
             }
+         localStorage.setItem("token", response.data.token)
         }}
       />
     </div>
