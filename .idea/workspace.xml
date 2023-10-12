@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8f69a8e-11a4-47fb-90a6-0e679c71c913" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/apps/client/src/lib/dbConnect.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/client/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/client/src/pages/api/signup.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/src/pages/api/signup.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/client/src/pages/signup.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/src/pages/signup.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bun.lockb" beforeDir="false" afterPath="$PROJECT_DIR$/bun.lockb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
@@ -70,22 +70,11 @@
       <workItem from="1696824449303" duration="4465000" />
       <workItem from="1696888992575" duration="15194000" />
       <workItem from="1696947662439" duration="3937000" />
+      <workItem from="1696966201821" duration="25937000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/apps/client/src/pages/api/signup.ts</url>
-          <line>1</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
