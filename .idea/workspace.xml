@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8f69a8e-11a4-47fb-90a6-0e679c71c913" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/store/atoms/course.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/store/atoms/user.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/store/selectors/course.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/store/selectors/isUserLoading.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/store/selectors/userEmail.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/store/src/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/client/src/pages/signup.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/src/pages/signup.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/client/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/apps/client/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/store/atoms/course.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/store/atoms/course.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/store/selectors/course.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/store/selectors/course.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +68,7 @@
       <workItem from="1696824449303" duration="4465000" />
       <workItem from="1696888992575" duration="15194000" />
       <workItem from="1696947662439" duration="3937000" />
-      <workItem from="1696966201821" duration="31998000" />
+      <workItem from="1696966201821" duration="32951000" />
     </task>
     <servers />
   </component>
